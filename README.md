@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Mahesh%20Gite&fontSize=65&fontColor=e2e8f0&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Explorer&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,75:4f46e5,100:7c3aed&height=220&section=header&text=Mahesh%20Gite&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Explorer&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;MERN+Stack+Developer;Sharpening+problem-solving+with+DSA;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;MERN+Stack+Developer;Sharpening+problem-solving+with+DSA;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
 
 <br/>
 
@@ -107,4 +107,4 @@ const mahesh = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:4f46e5,75:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
